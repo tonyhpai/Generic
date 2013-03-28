@@ -1,5 +1,5 @@
-$ mkdir ~/Hello-World/Generic
-$ cd ~/Hello-World
+$ mkdir ~/Generic
+$ cd ~/Generic
 $ git init
 $ touch README
 
